@@ -1,2 +1,2 @@
 # PRAGATISTREE
-a basic version for gdg hackathon
+a basic version for gdg hackathon.
